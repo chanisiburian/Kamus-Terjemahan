@@ -1,0 +1,4 @@
+Kelompok 11
+1.Andre Siregar(11319018) mengerjakan : header,membuka file indo,implement kamus indo batak, driver, membuat file kata txt
+2.Chani siburian(11319012)mengerjakan : implement membuka file indo membuat kamus batak indo, membuat file kata txt
+3.Anita siagian(11319012) mengerjakan : implement membuka file batak,membuat kamus indo batak membuat file kata txt
